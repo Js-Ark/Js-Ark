@@ -315,7 +315,7 @@ body {
   font-family: Verdana, Arial, sans-serif;
   line-height: 20px;
 }
-a {
+#navigation a {
   text-decoration: none;
   -webkit-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
