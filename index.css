@@ -104,18 +104,18 @@ img {
 	margin: 0px;
 }
 #inside_news1{
-	height: 90vh;
+	height: auto;
 	background-color: gray;
 	margin: 0px;
 }
 #news1_pic{
-  height: 65vh;
-  background-image: url('image/p01.JPG');
-  background-size: cover;
-  background-position:left top;
+  padding: 0px;
 }
 #news1_txt{
-  height: 25vh;
+  height: 151px;
+  width: 100%;
+  padding-top: 21px;
+  padding-bottom: 23px;
   background-color: black;
 }
 #news_2{
@@ -123,18 +123,18 @@ img {
 	margin: 0px;
 }
 #inside_news2{
-	height: 90vh;
+	height: auto;
 	background-color: gray;	
 	margin: 0px;
 }
 #news2_pic{
-  height: 65vh;
-  background-image: url('image/rex_album01.jpg');
-  background-size: cover;
-  background-position:center top;
+  padding: 0px;
 }
 #news2_txt{
-  height: 25vh;
+  height: 151px;
+  width: 100%;
+  padding-top: 21px;
+  padding-bottom: 23px;
   background-color: black;
 }
 #news_3{
@@ -142,18 +142,18 @@ img {
 	margin: 0px;
 }
 #inside_news3{
-	height: 90vh;
+	height: auto;
 	background-color: gray;	
 	margin: 0px;
 }
 #news3_pic{
-  height: 65vh;
-  background-image: url('image/tang_album02.jpg');
-  background-size: cover;
-  background-position:center top;
+  padding: 0px;
 }
 #news3_txt{
-  height: 25vh;
+  height: 151px;
+  width: 100%;
+  padding-top: 21px;
+  padding-bottom: 23px;
   background-color: black;
 }
 #news_4{
@@ -161,18 +161,18 @@ img {
 	margin: 0px;
 }
 #inside_news4{
-	height: 90vh;
+	height: auto;
 	background-color: gray;
 	margin: 0px;
 }
 #news4_pic{
-  height: 65vh;
-  background-image: url('image/rex_album03.jpg.jpg');
-  background-size: cover;
-  background-position:center;
+  padding: 0px;
 }
 #news4_txt{
-  height: 25vh;
+  height: 151px;
+  width: 100%;
+  padding-top: 21px;
+  padding-bottom: 23px;
   background-color: black;
 }
 #news_5{
@@ -180,18 +180,18 @@ img {
 	margin: 0px;
 }
 #inside_news5{
-	height: 90vh;
+	height: auto;
 	background-color: gray;	
 	margin: 0px;
 }
 #news5_pic{
-  height: 65vh;
-  background-image: url('image/tang_album04.jpg.jpg');
-  background-size: cover;
-  background-position:center;
+  padding: 0px;
 }
 #news5_txt{
-  height: 25vh;
+  height: 151px;
+  width: 100%;
+  padding-top: 21px;
+  padding-bottom: 23px;
   background-color: black;
 }
 #news_6{
@@ -199,20 +199,46 @@ img {
 	margin: 0px;
 }
 #inside_news6{
-	height: 90vh;
+	height: auto;
 	background-color: gray;	
 	margin: 0px;
 }
 #news6_pic{
-  height: 65vh;
-  background-image: url('image/p06.JPG');
-  background-size: cover;
-  background-position:left top;
+  padding: 0px;
 }
 #news6_txt{
-  height: 25vh;
+  height: 151px;
+  width: 100%;
+  padding-top: 21px;
+  padding-bottom: 23px;
   background-color: black;
 }
+
+#news_title{
+ height: 14px;
+ margin-bottom: 10px;
+ color: white;
+}
+#news_date{
+  height: 11px;
+  margin-bottom: 8px;
+color: white;
+}
+#news_cop{
+  height: 11px;
+  margin-bottom: 22px;
+color: white;
+}
+#news_seperate{
+  border-bottom: solid 1px white;
+  margin-bottom: 22px;
+}
+#read_more{
+  height: 9px;
+color: white;
+
+}
+
 #footer{
 	height: 56px;
 	padding-top: 20px;

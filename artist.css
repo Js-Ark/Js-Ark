@@ -53,7 +53,7 @@
 #Tang{
 min-height: 120vh;
 max-height: 120vh;
-background-image: url('image/tang.JPG');
+background-image: url('image/Tang.jpg');
 background-size: cover;
 background-position: center top;
 -webkit-filter: grayscale(100%);
@@ -64,9 +64,9 @@ background-position: center top;
 #Rex{
 min-height: 120vh;
 max-height: 120vh;
-background-image: url('image/rex.JPG');
+background-image: url('image/REX.jpg');
 background-size: cover;
-background-position: center top;
+background-position: 55% top;
 -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
   -webkit-transition: .3s ease-in-out;
@@ -75,7 +75,7 @@ background-position: center top;
 #Ark{
 min-height: 120vh;
 max-height: 120vh;
-background-image: url('image/ark.JPG');
+background-image: url('image/ARK.jpg');
 background-size: cover;
 background-position: center top;
 -webkit-filter: grayscale(100%);
@@ -92,8 +92,6 @@ background-position: center top;
     background: #000000;
     position: relative;
 }
-
-
 
 
 
@@ -142,6 +140,11 @@ nav#navigation.list.-on{
 }
 
 @media screen and (max-width: 767px){
+#Tang_intro_txt{
+  position: relative;
+
+}
+
 #pc_nav{
 	display: none;
 }
@@ -185,6 +188,7 @@ nav#navigation.list.-on{
 	margin-left: auto;
 	margin-right: auto;	
 }
+
 
 /*---- from here-----*/
 
@@ -377,5 +381,13 @@ a {
 #phone_nav{
 	display: none;
 }
-
+#Rex_intro_text{
+  position:absolute; 
+  left:0px; 
+  top:0px; 
+  width:60%; 
+  height:auto; 
+  background-color:#FFF;
+  opacity: 0.7;"
+}
 }

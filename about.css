@@ -106,17 +106,17 @@ height:240px;
 line-height:24px;
 }
 
-a{
+.portfolio-title a{
   color: black;
   font-weight: bold;
 } 
  /* 滑鼠移至連結 */
-a:hover{
+.portfolio-title a:hover{
 color: #8A0000;
 text-decoration: none;
 }
 /* 選擇的連結 */
-a:active{
+.portfolio-title a:active{
 color: #8A0000;
 text-decoration: none;
 }
