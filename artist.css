@@ -43,6 +43,13 @@
   margin: 0px;
   float: left;
 }
+.nav_txt a{
+color: white;
+}
+.nav_txt a:hover{
+  color: #939393;
+  text-decoration: none;
+}
 
 
 #main{
@@ -373,7 +380,9 @@ a {
   color: #333;
   border-bottom-color: #673ab7;
 }
-
+.content .intro_txt{
+  top: 60vh;
+}
 
 }
 
@@ -390,4 +399,8 @@ a {
   background-color:#FFF;
   opacity: 0.7;"
 }
+.content .intro_txt{
+  top: 30vh;
+}
+
 }
