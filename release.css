@@ -43,13 +43,6 @@
   margin: 0px;
   float: left;
 }
-.nav_txt a{
-color: white;
-}
-.nav_txt a:hover{
-  color: #939393;
-  text-decoration: none;
-}
 
 #main{
   padding: 20px;
