@@ -60,7 +60,7 @@ color: white;
 #Tang{
 min-height: 120vh;
 max-height: 120vh;
-background-image: url('image/Tang.jpg');
+background-image: url('image/tang.JPG');
 background-size: cover;
 background-position: center top;
 -webkit-filter: grayscale(100%);
@@ -71,7 +71,7 @@ background-position: center top;
 #Rex{
 min-height: 120vh;
 max-height: 120vh;
-background-image: url('image/REX.jpg');
+background-image: url('image/rex.JPG');
 background-size: cover;
 background-position: 55% top;
 -webkit-filter: grayscale(100%);
@@ -82,7 +82,7 @@ background-position: 55% top;
 #Ark{
 min-height: 120vh;
 max-height: 120vh;
-background-image: url('image/ARK.jpg');
+background-image: url('image/ark.JPG');
 background-size: cover;
 background-position: center top;
 -webkit-filter: grayscale(100%);
